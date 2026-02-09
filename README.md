@@ -1,7 +1,5 @@
 # Ship Hunters (Java Terminal Game)
 
-Java CLI battleship game using Unicode icons and ANSI colors. Run in VS Code Terminal or Windows Terminal (UTF‑8), basic cmd may not render icons.
-
 ## Requirements
 - Java 11+ (Java 17+ recommended)
 - A terminal that supports UTF‑8 and ANSI colors
